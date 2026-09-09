@@ -1,9 +1,8 @@
 ## Olá eu sou o rs-rafaelsousa
-- 🔭 Hoje trabalho com Back-end.
-- 🌱 Estudando Java e Python.
+- 🔭 Hoje trabalho com Desenvolvimento Web.
+- 🌱 Estudando PHP.
 - 📫 Contate-me pelo e-mail: sktrafamoreira@gmail.com.
-- 😄 Pronouns: ele/dele.
-
+  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs-rafaelsousa&theme=midnight-purple&show_icons=true)
 
  <div style="display: inline_block"><br>
